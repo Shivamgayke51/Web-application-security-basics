@@ -1,33 +1,24 @@
-* Web-application-security-basics
-Beginner-level web application security learning and practice
+# Web Application Security – Beginner Level
 
-* Web Application Security – Beginner Level
+This repository contains my beginner-level learning and hands-on practice related to web application security.
 
-This repository contains my beginner-level learning and hands-on practice
-related to web application security.
-
-* Topics Covered
-- SQL Injection (basic)
+## Topics Covered
+- SQL Injection (Basic)
 - Cross-Site Scripting (XSS)
-- OWASP Top 10 (learning stage)
+- OWASP Top 10 (Learning stage)
 
-* Practice
+## Practice
 - Solved PortSwigger Apprentice-level labs
 - Performed basic payload testing on demo web applications
 
-* Tools
+## Tools
 - Burp Suite (Basic)
 - Browser Developer Tools
-- Basic SQL payloads
-- XSS test payloads
 
-Actively learning and improving skills.
- 
-* Practice Platforms
-
+## Practice Platforms
 - PortSwigger Web Security Academy (Apprentice level labs)
-- OWASP Juice Shop (basic understanding)
-- TestFire / Altoro Mutual (basic payload testing)
-- Artist demo website (learning purpose)
+- OWASP Juice Shop (Basic understanding)
+- TestFire / Altoro Mutual (Basic payload testing)
+- Artist demo website (Learning purpose)
 
-* All practice was performed only on legal and intentionally vulnerable applications.
+*All practice was performed only on legal and intentionally vulnerable applications.*
