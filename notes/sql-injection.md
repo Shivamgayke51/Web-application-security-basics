@@ -1,4 +1,4 @@
-* SQL Injection – Basics
+## SQL Injection – Basics
 
 Practiced basic SQL Injection techniques through lab exercises.
 
