@@ -17,5 +17,17 @@ related to web application security.
 
 * Tools
 - Burp Suite (Basic)
+- Browser Developer Tools
+- Basic SQL payloads
+- XSS test payloads
 
 Actively learning and improving skills.
+ 
+* Practice Platforms
+
+- PortSwigger Web Security Academy (Apprentice level labs)
+- OWASP Juice Shop (basic understanding)
+- TestFire / Altoro Mutual (basic payload testing)
+- Artist demo website (learning purpose)
+
+* All practice was performed only on legal and intentionally vulnerable applications.
