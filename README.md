@@ -1,10 +1,13 @@
-# Web Application Security – Beginner Level
+# Web Application Security 
 
 This repository contains my beginner-level learning and hands-on practice related to web application security.
 
 ## Topics Covered
-- SQL Injection (Basic)
-- Cross-Site Scripting (XSS)
+- SQL Injection 
+- Cross-Site Scripting
+- Broken Authentication
+- Broken Access Control
+- Session Management
 - OWASP Top 10 (Learning stage)
 
 ## Practice
@@ -12,7 +15,9 @@ This repository contains my beginner-level learning and hands-on practice relate
 - Performed basic payload testing on demo web applications
 
 ## Tools
-- Burp Suite (Basic)
+- Burp Suite
+- Wireshark
+- Postman
 - Browser Developer Tools
 
 ## Practice Platforms
